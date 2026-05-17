@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Suhani 
 
-<!--
-**sushiii0806/sushiii0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ TYBBA Business Analytics Student  
+ Aspiring Quant Finance Analyst  
+ Learning Python, Statistics, and Financial Modeling  
+ Interested in Algorithmic Trading & Data Analytics  
 
-Here are some ideas to get you started:
+## Current Skills
+- Python
+- Excel
+- Statistics
+- Business Analytics
+- GitHub Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Currently Learning
+- Pandas
+- NumPy
+- Probability
+- Financial Markets
+- Data Visualization
+
+
+## Career Goals
+- Become a Quant Finance Professional
+- Build Financial Analysis Projects
+- Learn Algorithmic Trading
+- Work at top finance firms
+
+
+## Upcoming Projects
+- Stock Market Analysis
+- Portfolio Optimization
+- Monte Carlo Simulations
+- Financial Dashboards
