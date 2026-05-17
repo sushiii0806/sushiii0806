@@ -1,6 +1,6 @@
 # Hi, I'm Suhani 
 
- TYBBA Business Analytics Student  
+ TYBBA Business Analytics Student 
  Aspiring Quant Finance Analyst  
  Learning Python, Statistics, and Financial Modeling  
  Interested in Algorithmic Trading & Data Analytics  
