@@ -1,35 +1,69 @@
-# Hi, I'm Suhani 
+# 📈 Stock Market Analysis using Python
 
- TYBBA Business Analytics Student 
- Aspiring Quant Finance Analyst  
- Learning Python, Statistics, and Financial Modeling  
- Interested in Algorithmic Trading & Data Analytics  
+## Overview of the project 
+This project analyzes real world stock market data using Python and financial analytics techniques.
 
-## Current Skills
+The project focuses on:
+- Stock price analysis
+- Daily returns
+- Volatility analysis
+- Moving averages
+- Correlation between stocks
+- Data visualization
+
+---
+
+## Technologies Used
 - Python
-- Excel
-- Statistics
-- Business Analytics
-- GitHub Basics
-
-
-## Currently Learning
 - Pandas
 - NumPy
-- Probability
-- Financial Markets
-- Data Visualization
+- Matplotlib
+- Seaborn
+- yfinance
+- Google Colab
 
 
-## Career Goals
-- Become a Quant Finance Professional
-- Build Financial Analysis Projects
-- Learn Algorithmic Trading
-- Work at top finance firms
+##  Stocks Analyzed
+- Apple (AAPL)
+- Tesla (TSLA)
+- NVIDIA (NVDA)
 
 
-## Upcoming Projects
-- Stock Market Analysis
-- Portfolio Optimization
-- Monte Carlo Simulations
-- Financial Dashboards
+##  Features
+ Download real stock market data  
+ Visualize stock prices  
+ Calculate daily returns  
+ Analyze volatility  
+ Compare multiple stocks  
+ Generate correlation heatmaps  
+ Plot return distributions  
+
+
+##  Quant Finance Concepts Covered
+- Financial Data Analysis
+- Time Series Analysis
+- Volatility
+- Correlation
+- Statistical Visualization
+- Return Analysis
+
+
+##  Sample Analysis Included
+- Closing price trends
+- Moving averages
+- Daily percentage returns
+- Correlation matrix
+- Histogram of returns
+
+
+##  Future Improvements
+- Portfolio optimization
+- Sharpe ratio analysis
+- Monte Carlo simulations
+- Risk modeling
+- Predictive analytics
+
+
+## Author
+Suhani  
+Aspiring Quant Finance Professional
